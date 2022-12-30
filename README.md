@@ -1,4 +1,4 @@
-![MasterHead](<iframe src="https://giphy.com/embed/BW51OCstarPBm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/matrix-BW51OCstarPBm">via GIPHY</a></p>)
+![Masterhead](https://www.timefortheweb.com/blog/wp-content/uploads/2017/10/timefortheweb-Blog-Image.gif)
 # 💫 About Me:
 🔭 I'm currently working on a entertainment site<br>🌱 I'm currently learning JavaScript and other backend languages<br>🏴‍☠️ Fun Fact spider has 8 legs and hand as well
 ## 🌐 Socials:

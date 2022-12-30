@@ -1,3 +1,4 @@
+[![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
 # 💫 About Me:
 I'm currently working on a entertainment site<br>I'm currently learning JavaScript and other backend languages<br>Fun Fact spider has 8 legs and hand as well
 

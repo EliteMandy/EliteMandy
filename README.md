@@ -1,4 +1,8 @@
 ![Masterhead](https://www.timefortheweb.com/blog/wp-content/uploads/2017/10/timefortheweb-Blog-Image.gif)
+<h1 size="78" align="center">🙏 नमस्कार 🙏</h1>
+
+<h3 align="center"> I'm Mahendra Singh, an Undergraduate Student of Computer Science.</h3>
+
 # 💫 About Me:
 🔭 I'm currently working on a entertainment site<br>🌱 I'm currently learning JavaScript and other backend languages<br>🏴‍☠️ Fun Fact spider has 8 legs and hand as well
 

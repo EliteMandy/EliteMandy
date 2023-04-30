@@ -39,7 +39,7 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EliteMandy&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=EliteMandy&label=Stalked%20Me&pretty=false)](https://visitcount.itsvg.in)
 
 
 

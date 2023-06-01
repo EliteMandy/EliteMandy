@@ -41,7 +41,18 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=EliteMandy&label=Stalked%20Me&pretty=false)](https://visitcount.itsvg.in)
 
+<p align="center">
+  Do check my repositories out! Let's discuss if anything interests you. :smile: <br>
+  Thank you for dropping by!
+  </p>
 
+<p align="center">
+<img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px">
+</p>
+
+<p align="center">
+<img alt="Visitor Count" src="https://profile-counter.glitch.me/Kashish121/count.svg">
+</p>
 
 
 

@@ -1,9 +1,6 @@
 <!-- ![Masterhead](https://cdn-images-1.medium.com/v2/resize:fit:1600/0*-u0b7K0Q6zfBcQqT.gif)
 ![Masterhead](https://www.timefortheweb.com/blog/wp-content/uploads/2017/10/timefortheweb-Blog-Image.gif) -->
-<p align="center" >
-  <img src="https://cdn-images-1.medium.com/v2/resize:fit:1600/0*-u0b7K0Q6zfBcQqT.gif" alt="Masterhead 1" width="75%">
-<!--   <img src="https://www.timefortheweb.com/blog/wp-content/uploads/2017/10/timefortheweb-Blog-Image.gif" alt="Masterhead 2" width="50%" style="float: right;"> -->
-</p>
+
 <!-- [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY) -->
 <h2 size="300" align="center">🙏 नमस्कार 🙏</h2>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">

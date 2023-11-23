@@ -1,7 +1,9 @@
 <!--![image](https://github.com/EliteMandy/EliteMandy/assets/99544156/63cda21f-ad46-4ea1-8957-9d61b8818a69)<!-- ![Masterhead](https://cdn-images-1.medium.com/v2/resize:fit:1600/0*-u0b7K0Q6zfBcQqT.gif)
 ![Masterhead](https://www.timefortheweb.com/blog/wp-content/uploads/2017/10/timefortheweb-Blog-Image.gif) -->
-
-![Masterhead](https://memeguy.com/photos/images/complete-game-of-snake-138475.gif)
+<p align="center" >
+  <img src="https://memeguy.com/photos/images/complete-game-of-snake-138475.gif" height=200px  />
+</p>
+<!-- ![Masterhead](https://memeguy.com/photos/images/complete-game-of-snake-138475.gif) -->
 <!-- [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY) -->
 <h2 size="300" align="center">🙏 नमस्कार 🙏</h2>
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%"> -->

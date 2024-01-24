@@ -35,10 +35,11 @@
 [![](https://gtce.itsvg.in/api?username=manusingh98122)](https://gtce.itsvg.in)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EliteMandy&label=Stalked%20Me&pretty=false)](https://visitcount.itsvg.in)
@@ -53,12 +54,3 @@
 </p>
 
 <p align="center">
-<img alt="Visitor Count" src="https://profile-counter.glitch.me/Kashish121/count.svg">
-</p>
-
-
-
-
-
-
-

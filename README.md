@@ -15,7 +15,6 @@
 🔭 I'm currently working on a entertainment site<br>🌱 I'm currently learning JavaScript and other backend languages<br>🏴‍☠️ Fun Fact spider has 8 legs and hand as well
 
 ## Snake Eating My Contributions in github
-![snake gif](https://github.com/EliteMandy/EliteMandy/blob/output/github-contribution-grid-snake.svg)
 <!-- ![snake gif](https://github.com/EliteMandy/EliteMandy/blob/main/github-contribution-grid-snake.svg-main/github-contribution-grid-snake.svg) -->
 
 ## 🌐 Socials:

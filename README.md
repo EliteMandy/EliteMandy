@@ -85,7 +85,7 @@
 </div>
 
 ###
-
+![snake gif](https://github.com/EliteMandy/EliteMandy/blob/output/github-contribution-grid-snake.svg)
 <br clear="both">
 
 ###

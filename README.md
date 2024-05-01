@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is DIVY PRAKASH TIWARI and I'm a Web Developer and a Graphic Designer.Currently Divri is practicing GitOps</h2>
+<h2 align="left">Hi 👋! My name is DIVY PRAKASH TIWARI and I'm a Web Developer and a Graphic Designer.Currently Divri is working on GitOps</h2>
 
 ###
 

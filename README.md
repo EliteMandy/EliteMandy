@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is DIVY PRAKASH TIWARI and I'm a Web Developer and a Graphic Designer.Currently Divri is working on GitOps</h2>
-<h3>I changed the local forked repo"</h3>
+<h2 align="left">Hi 👋! My name is Mahendra Singh and I'm a Web Developer and a Graphic Designer.</h2>
+<h3>Curently working on ML Models</h3>
 ###
 
 <div align="center">

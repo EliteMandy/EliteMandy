@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mahendra Singh and I'm a Web Developer and a Graphic Designer.</h2>
+<h2 align="left">Hi 👋! My name is DIVY PRAKASH TIWARI and I'm a Web Developer and a Graphic Designer.Currently i am practicing GitOps</h2>
 
 ###
 

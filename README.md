@@ -1,4 +1,9 @@
+<h2 size="300" align="center">Hi😃</h2>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+<h3 align="center"> I'm Mahendra Singh, an Undergraduate Student of Computer Science.</h3>
 
+# 💫 About Me:
+🔭 I'm currently working on a entertainment site<br>🌱 I'm currently learning JavaScript and other backend languages<br>🏴‍☠️ Fun Fact spider has 8 legs and hand as well
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/u6v8SzXEXn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ManuSe7en/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/maaaaahhi.se7en/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahendra-singh-605376228/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Mahendra060902) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCxj2xc4hiBE2hS8S9hfmRfA) 
 

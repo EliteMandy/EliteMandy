@@ -1,5 +1,5 @@
 <h2 size="300" align="center">Hi😃</h2>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+
 <h3 align="center"> I'm Mahendra Singh, an Undergraduate Student of Computer Science.</h3>
 
 # 💫 About Me:
